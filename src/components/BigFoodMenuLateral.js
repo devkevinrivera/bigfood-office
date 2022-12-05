@@ -44,6 +44,30 @@ const BigFoodMenuLateral = props => {
             <Label>51</Label>
             Spam
             </Menu.Item>
+            <Menu.Item
+                name='spam'
+                active={activeItem === 'spam'}
+                onClick={handleItemClick}
+            >
+            <Label>51</Label>
+            Spam
+            </Menu.Item>
+            <Menu.Item
+                name='spam'
+                active={activeItem === 'spam'}
+                onClick={handleItemClick}
+            >
+            <Label>51</Label>
+            Spam
+            </Menu.Item>
+            <Menu.Item
+                name='spam'
+                active={activeItem === 'spam'}
+                onClick={handleItemClick}
+            >
+            <Label>51</Label>
+            Spam
+            </Menu.Item>
 
             <Menu.Item
                 name='updates'
